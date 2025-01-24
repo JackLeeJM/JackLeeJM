@@ -2,6 +2,8 @@
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackLeeJM&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackLeeJM)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JackLeeJM/JackLeeJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
