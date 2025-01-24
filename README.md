@@ -6,7 +6,7 @@ I am a tinkerer who loves to use data and analytics to solve real-world problems
 
 #
 
-### Language and Tools
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
